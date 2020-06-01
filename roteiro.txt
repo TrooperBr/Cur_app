@@ -1,0 +1,34 @@
+-1 
+	core
+	data_manager
+		-logs
+		-usuario
+		-sessao
+
+	rpg
+		-player caracteres
+		-enimys caracters
+		-itens
+		-calculadora
+
+	efeitos
+		-efeitos visuais
+		-efeitos de movimentaçao
+		-gravitacionais
+		-inimigos
+
+	screens
+		-menu
+		-opçoes
+		-game (player, enimy, parede)
+
+
+	objetos
+		-player
+		-enimy
+		-paredes
+
+
+	maps
+		-gerador
+		-renderiza
